@@ -14,7 +14,6 @@ const columns: ColumnsType<DataType> = [
   { title: 'Name', dataIndex: 'name', key: 'name' },
   Table.EXPAND_COLUMN,
   { title: 'Age', dataIndex: 'age', key: 'age' },
-  Table.SELECTION_COLUMN,
   { title: 'Address', dataIndex: 'address', key: 'address' },
 ];
 
